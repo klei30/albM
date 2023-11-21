@@ -15,7 +15,7 @@ Link: https://platform.openai.com/docs/models/overview
 // Model Parameters
 // ==========================
 
-export const MODEL_NAME: string = "gpt-4-1106-preview"
+export const MODEL_NAME: string = "gpt-3.5-turbo"
 
 // Higher Temp = More Creative
 // Set a low temp to keep responses inline with the source docs
