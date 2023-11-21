@@ -54,7 +54,10 @@ Your goal is to deliver reliable, detailed, and accessible information about ele
 
 
 Question: {question}
+=========
 {context}
+=========
+Answer in Markdown:
 `
 
 export const CONDENSE_TEMPLATE: string = `Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question.
